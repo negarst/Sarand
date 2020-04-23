@@ -1,0 +1,402 @@
+@font-face {
+    font-family: mitra;
+    font-style: normal;
+    font-weight: bold;
+    src: url('fonts/BMitraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: mitra;
+    font-style: normal;
+    font-weight: normal;
+    src: url('fonts/BMitra.woff') format('woff');
+}
+
+html {
+    font-family: mitra;
+}
+
+body {
+    font-family: mitra;
+}
+
+pre {
+    font-family: mitra;
+}
+
+code,
+kbd,
+samp {
+    font-family: mitra;
+}
+
+text,
+button,
+input,
+optgroup,
+select,
+textarea {
+    font-family: mitra;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: mitra;
+}
+
+.site-title {
+    font-family: mitra;
+}
+
+.main-navigation a {
+    font-family: mitra;
+}
+
+.widget_popular_post h3,
+.widget_latest_post h3 {
+    font-family: mitra;
+}
+
+.btn {
+    font-family: mitra;
+    font-size: 17px;
+}
+
+.video-text {
+    font-family: mitra;
+}
+
+#call-to-action .section-content {
+    font-size: 46px;
+}
+
+.trail-items li {
+    font-size: 18px;
+}
+
+#latest-projects article .count {
+    font-family: mitra;
+}
+
+.post-navigation a,
+.posts-navigation a {
+    font-family: mitra;
+}
+
+.comment-meta .url,
+.comment-meta .fn {
+    font-family: mitra;
+}
+
+.reply a {
+    font-family: mitra;
+}
+
+p.form-submit input[type="submit"] {
+    font-family: mitra;
+}
+
+.header-font-1 h1,
+.header-font-1 h2,
+.header-font-1 h3,
+.header-font-1 h4,
+.header-font-1 h5,
+.header-font-1 #main-slider .entry-title,
+.header-font-1 .btn,
+.header-font-1 .page-header .page-title,
+.header-font-1 .comment-meta .url,
+.header-font-1 .comment-meta .fn,
+.header-font-1 .reply a,
+.header-font-1 #respond input[type="submit"] {
+    font-family: mitra;
+}
+
+.header-font-2 h1,
+.header-font-2 h2,
+.header-font-2 h3,
+.header-font-2 h4,
+.header-font-2 h5,
+.header-font-2 #main-slider .entry-title,
+.header-font-2 .btn,
+.header-font-2 .page-header .page-title,
+.header-font-2 .comment-meta .url,
+.header-font-2 .comment-meta .fn,
+.header-font-2 .reply a,
+.header-font-2 #respond input[type="submit"] {
+    font-family: mitra;
+}
+
+.header-font-3 h1,
+.header-font-3 h2,
+.header-font-3 h3,
+.header-font-3 h4,
+.header-font-3 h5,
+.header-font-3 #main-slider .entry-title,
+.header-font-3 .btn,
+.header-font-3 .page-header .page-title,
+.header-font-3 .comment-meta .url,
+.header-font-3 .comment-meta .fn,
+.header-font-3 .reply a,
+.header-font-3 #respond input[type="submit"] {
+    font-family: mitra;
+}
+
+.header-font-4 h1,
+.header-font-4 h2,
+.header-font-4 h3,
+.header-font-4 h4,
+.header-font-4 h5,
+.header-font-4 #main-slider .entry-title,
+.header-font-4 .btn,
+.header-font-4 .page-header .page-title,
+.header-font-4 .comment-meta .url,
+.header-font-4 .comment-meta .fn,
+.header-font-4 .reply a,
+.header-font-4 #respond input[type="submit"] {
+    font-family: mitra;
+}
+.header-font-5 h1,
+.header-font-5 h2,
+.header-font-5 h3,
+.header-font-5 h4,
+.header-font-5 h5,
+.header-font-5 #main-slider .entry-title,
+.header-font-5 .btn,
+.header-font-5 .page-header .page-title,
+.header-font-5 .comment-meta .url,
+.header-font-5 .comment-meta .fn,
+.header-font-5 .reply a,
+.header-font-5 #respond input[type="submit"] {
+    font-family: mitra;
+}
+
+body.body-font-1,
+body.body-font-1 .main-navigation a,
+body.body-font-1 #secondary .widget-title,
+body.body-font-1 #secondary .widgettitle,
+body.body-font-1 #top-navigation .widget_contact_info ul li,
+body.body-font-1 #top-navigation .widget_contact_info ul li a,
+body.body-font-1 .trail-items li {
+    font-family: mitra;
+}
+body.body-font-2,
+body.body-font-2 .main-navigation a,
+body.body-font-2 #secondary .widget-title,
+body.body-font-2 #secondary .widgettitle,
+body.body-font-2 #top-navigation .widget_contact_info ul li,
+body.body-font-2 #top-navigation .widget_contact_info ul li a,
+body.body-font-2 .trail-items li {
+    font-family: mitra;
+}
+body.body-font-3,
+body.body-font-3 .main-navigation a,
+body.body-font-3 #secondary .widget-title,
+body.body-font-3 #secondary .widgettitle,
+body.body-font-3 #top-navigation .widget_contact_info ul li,
+body.body-font-3 #top-navigation .widget_contact_info ul li a,
+body.body-font-3 .trail-items li {
+    font-family: mitra;
+}
+body.body-font-4,
+body.body-font-4 .main-navigation a,
+body.body-font-4 #secondary .widget-title,
+body.body-font-4 #secondary .widgettitle,
+body.body-font-4 #top-navigation .widget_contact_info ul li,
+body.body-font-4 #top-navigation .widget_contact_info ul li a,
+body.body-font-4 .trail-items li {
+    font-family: mitra;
+}
+body.body-font-5,
+body.body-font-5 .main-navigation a,
+body.body-font-5 #secondary .widget-title,
+body.body-font-5 #secondary .widgettitle,
+body.body-font-5 #top-navigation .widget_contact_info ul li,
+body.body-font-5 #top-navigation .widget_contact_info ul li a,
+body.body-font-5 .trail-items li {
+    font-family: mitra;
+}
+
+body, button, input, select, optgroup, textarea {
+    font-size: 1.1rem;
+}
+
+.main-navigation a {
+    font-size: 19px;
+}
+
+.site-branding {
+    float: right;
+}
+
+.main-navigation {
+    float: left;
+}
+
+#our-services .read-more a:before {
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+#main-slider .slider-content {
+    padding-left: 80px;
+    padding-right: auto;
+}
+
+#main-slider .entry-title {
+    font-size: 46px;
+}
+
+.project-slider {
+    direction: ltr;
+}
+
+.testimonial-slider .slick-list {
+    direction: ltr;
+}
+
+#latest-projects article .entry-title {
+    font-size: 24px;
+}
+
+[dir=rtl] .slick-slide {
+    float: left;
+}
+
+#primary {
+    float: right;
+}
+
+.right-sidebar #secondary .widget {
+    padding-right: 40px;
+    padding-left: auto;
+}
+
+.classic-menu .main-navigation form.search-form {
+    left: 0;
+    right: auto;
+}
+
+.post-navigation .nav-next a {
+    text-align: right;
+}
+
+.post-navigation .nav-previous a {
+    text-align: left;
+}
+
+.comment-meta img {
+    float: right;
+    margin-left: 20px;
+    margin-right: auto;
+}
+
+.comment-body .reply a:before {
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+.footer-widget-area .hentry .widget_archive li a, .widget.widget_categories ul li a, .widget.widget_archive ul li a {
+    float: right;
+}
+
+[dir=rtl] .slick-next {
+    right: auto;
+    left: -25px;
+}
+
+.main-navigation svg.icon-down {
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.main-navigation ul.sub-menu li a {
+    text-align: right;
+}
+
+button.dropdown-toggle {
+    left: 0;
+    right: auto;
+}
+
+#search button.search-submit, .widget.widget_search button.search-submit {
+    left: 0;
+    right: auto;
+}
+
+.classic-menu .main-navigation #search .icon-search {
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+#client-testimonial .slick-next {
+    left: 50%;
+    right: auto;
+}
+
+#client-testimonial.one-slide .slick-next {
+    margin-left: -134px;
+    margin-right: auto;
+}
+
+#client-testimonial .slick-next::before, #latest-projects .slick-next::before, .logo-slider .slick-next::before {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#client-testimonial .slick-prev {
+    right: 50%;
+    left: auto;
+}
+
+#client-testimonial.one-slide .slick-prev {
+    margin-right: -140px;
+    margin-left: auto;
+}
+
+#client-testimonial .slick-prev::before, #latest-projects .slick-prev::before, .logo-slider .slick-prev::before {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+#latest-posts .entry-container .read-more {
+    text-align: right;
+}
+
+#latest-posts article:hover .entry-container .read-more:before {
+    margin-right: auto;
+    margin-left: 15px;
+}
+
+#latest-projects article.slick-item .entry-container {
+    right: 30px;
+    left: auto;
+}
+
+.col-4 .hentry {
+    float: right;
+}
+
+.site-info {
+    text-align: center;
+}
+
+.site-info span:nth-child(1) {
+    float: unset;
+}
+
+.footer-widgets-area .hentry {
+    padding-left: 50px;
+    padding-right: auto;
+}
+
+@media screen and (max-width: 1023px) {
+    .main-navigation .menu-item-has-children > a:before {
+        float: left;
+        left: 25px;
+        right: auto;
+    }
+}
